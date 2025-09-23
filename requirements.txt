@@ -1,0 +1,12 @@
+langgraph
+langsmith
+langchain-community
+langchain-core
+langchain-openai
+tavily-python
+wikipedia
+python-dotenv
+langchain-groq
+langchain_google_genai
+faiss-cpu
+pyppeteer
